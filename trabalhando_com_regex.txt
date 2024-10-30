@@ -2,9 +2,9 @@ Toda a expressão regular (regex) vem contida entre barras (/). Junto delas, pod
 
 ------------ Modificadores ------------ 
 
-- g (global): Busca todas as ocorrências na string, não apenas a primeiras.
-- i (ignore case): Ignora a diferença entre maiúsculas e minúsculas durante a busca.
-- m (multiline): Trata a string como múltiplas linhas.
+
+
+
 - s (dotAll): 
 
 
